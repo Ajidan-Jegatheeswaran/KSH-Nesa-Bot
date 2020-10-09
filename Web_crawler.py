@@ -29,5 +29,6 @@ class web_crawler:
     def get_page(self):
         pass
 
+
     if __name__ == '__main__':
         log_in()
